@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c4ded5a688b1cef4fb0c3471dfd613b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - solidGizmoMaterial: {fileID: 2100000, guid: 299bcfb860d73bd4b852a202c012bfc4,
+      type: 2}
+  - wireGizmoMaterial: {fileID: 2100000, guid: 999d30091a2974840821dd991387cd79, type: 2}
+  - templateSolidSphere: {fileID: 134252, guid: aaa5b566bbe90904ba6b6850d6a66f6d,
+      type: 2}
+  - templateLine: {fileID: 162792, guid: d0d53d541ed15e34faf0a6d7f04a2d22, type: 2}
+  - templateTricircleSphere: {fileID: 1000013696462294, guid: a78e308d6d179a2468a29dd230db92a4,
+      type: 2}
+  - templatePolySphere: {fileID: 1000013677823160, guid: 9549e610e5b06ca4eba282fd05145e48,
+      type: 2}
+  - templateWireCube: {fileID: 1000013533203704, guid: cf85381c1e7faff48a980a87b957cebb,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
